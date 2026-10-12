@@ -25,9 +25,6 @@ several different MoE architectures, and even some hybrid models like Qwen3.5.
 Pure state-space models and certain other research architectures are not yet
 supported out of the box.
 
-<img width="650" height="715" alt="Screenshot" src="https://github.com/user-attachments/assets/d71a5efa-d6be-4705-a817-63332afb2d15" />
-
-&nbsp;
 
 Running unsupervised with the default configuration, Heretic can produce
 decensored models that rival the quality of abliterations created manually
