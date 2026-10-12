@@ -38,7 +38,7 @@ by human experts:
 | [google/gemma-3-12b-it](https://huggingface.co/google/gemma-3-12b-it) (original) | 97/100 | 0 *(by definition)* |
 | [mlabonne/gemma-3-12b-it-abliterated-v2](https://huggingface.co/mlabonne/gemma-3-12b-it-abliterated-v2) | 3/100 | 1.04 |
 | [huihui-ai/gemma-3-12b-it-abliterated](https://huggingface.co/huihui-ai/gemma-3-12b-it-abliterated) | 3/100 | 0.45 |
-| **[p-e-w/gemma-3-12b-it-heretic](https://huggingface.co/p-e-w/gemma-3-12b-it-heretic) (ours)** | **3/100** | **0.16** |
+
 
 The Heretic version, generated without any human effort, achieves the same
 level of refusal suppression as other abliterations, but at a much lower
@@ -60,8 +60,7 @@ Heretic have been well-received by users (links and emphasis added):
 > the best abliterated version of this model so far..."
 > [*(Link to comment)*](https://old.reddit.com/r/LocalLLaMA/comments/1oymku1/heretic_fully_automatic_censorship_removal_for/np6tba6/)
 
-> "[**Heretic GPT 20b**](https://huggingface.co/p-e-w/gpt-oss-20b-heretic)
-> seems to be the best uncensored model I have tried yet. It doesn't destroy a
+> seems to be the best uncensored model I have tried yet. It doesn't destroy 
 > the model's intelligence and it is answering prompts normally would be
 > rejected by the base model."
 > [*(Link to comment)*](https://old.reddit.com/r/LocalLLaMA/comments/1oymku1/heretic_fully_automatic_censorship_removal_for/npe9jng/)
@@ -75,10 +74,6 @@ like MMLU and GSM8K, and have been found to compare favorably with models
 produced by competing abliteration tools:
 [1](https://old.reddit.com/r/LocalLLaMA/comments/1sojjoc/abliterlitics_benchmark_and_tensor_analysis/),
 [2](https://old.reddit.com/r/LocalLLaMA/comments/1sy18lx/abliterlitics_benchmarks_and_tensor_comparison/).
-
-The community has created and published
-[well over 5000](https://huggingface.co/models?other=heretic)
-models with Heretic.
 
 
 ## Usage
