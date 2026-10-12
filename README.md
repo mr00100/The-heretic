@@ -198,7 +198,7 @@ If you use Heretic for your research, please cite it using the following BibTeX 
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/p-e-w/heretic}}
+  howpublished = {\url{https://github.com/mr00100/The-heretic}}
 }
 ```
 
